@@ -19,11 +19,6 @@
     ]
   },
   "browser_action": {},
-  "browser_specific_settings": {
-    "gecko": {
-      "id": "{b13d04e3-41db-48b3-842c-8079df93c7ad}"
-    }
-  },
   "content_scripts": [
     {
       "matches": [
