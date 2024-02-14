@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "__MSG_appName__",
-  "description": "__MSG_appDesc__",
+  "name": "WebChatGPT Origin",
+  "description": "Augment your ChatGPT prompts with relevant results from the web (This is a re-publish of the last open source version of webchatgpt)",
   "default_locale": "en",
   "version": "3.3.1",
   "icons": {
@@ -49,7 +49,7 @@
       "suggested_key": {
         "default": "Alt+W"
       },
-      "description": "__MSG_toggleWebAccess__"
+      "description": "Toggle Web Access"
     }
   }
 }
