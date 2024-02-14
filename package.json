@@ -3,6 +3,7 @@
   "name": "webchatgpt-origin",
   "version": "3.3.1",
   "license": "MIT",
+  "repository": "https://github.com/sdip15fa/webchatgpt-origin",
   "scripts": {
     "build-dev": "node build.mjs",
     "build-prod": "node build.mjs --create-zips --update-version",
